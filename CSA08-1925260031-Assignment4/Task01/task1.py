@@ -38,7 +38,7 @@ def process_mess_file(filename):
 
 
 def main():
-    filename = Path(__file__).parent / "input" / "mess_oct.txt"
+    filename = Path(__file__).parent / "mess_oct.txt"
 
     try:
         report, total, rejected = process_mess_file(filename)
