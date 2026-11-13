@@ -1,0 +1,2 @@
+192526003,Charan,CSE,charan@example.com,Coding;Quiz
+192526001,Anu,CSE,anu@example.com,Robotics
