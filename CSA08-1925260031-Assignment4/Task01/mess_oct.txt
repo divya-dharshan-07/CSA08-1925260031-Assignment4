@@ -1,0 +1,5 @@
+01,Anu,125.50
+02,Bala,90
+03,Charan,not-a-number
+04,Divya,110.25
+bad line
