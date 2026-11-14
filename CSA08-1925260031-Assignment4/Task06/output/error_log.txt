@@ -1,0 +1,5 @@
+DEPARTMENT | LINE | REGISTER NUMBER | ISSUE
+AIML | 4 | bad-record-with-too-few-fields | expected 5 non-empty fields
+AIML | - | 1925260033 | invalid email address
+CSE | - | 1925260032 | duplicate registration; later record skipped
+MECH | - | - | missing department file: MECH.txt

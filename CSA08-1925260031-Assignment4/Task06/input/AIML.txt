@@ -1,0 +1,4 @@
+1925260031,Divya Dharshan,AIML,divya@example.com,AI Quiz;Coding Challenge
+1925260032,Anu,AIML,anu@example.com,AI Quiz;Robo Race
+1925260033,Charan,AIML,invalid-email,AI Quiz
+bad-record-with-too-few-fields

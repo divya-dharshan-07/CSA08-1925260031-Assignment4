@@ -1,0 +1,23 @@
+COLLEGE FEST REGISTRATION SUMMARY
+====================================
+Valid registrations: 7
+
+Department-wise registrations:
+AIML: 2
+CSE: 2
+ECE: 2
+EEE: 1
+MECH: 0
+
+Event-wise participants:
+AI Quiz: 2
+Circuit Design: 3
+Coding Challenge: 2
+Debugging: 2
+Robo Race: 3
+
+Processing issues:
+Duplicates skipped: 1
+Invalid emails: 1
+Malformed records: 1
+Missing department files: 1
