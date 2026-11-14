@@ -1,3 +1,0 @@
-192526004,Divya,ECE,divya@example.com,Robotics;Design
-192526005,Ezhil,ECE,invalid-email,Design
-damaged record without enough fields
